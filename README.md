@@ -25,7 +25,7 @@
 ### Feel free to contact me for any help or question!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iury-alencar-8a2b26191/)](https://www.linkedin.com/in/iury-alencar-8a2b26191/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/carlos.alencar.7)](https://www.instagram.com/cybalencar2/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/carlos.alencar.7)](https://facebook.com/carlos.alencar.7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cybalencar2/)](https://www.instagram.com/cybalencar2/)
 
 <br />
@@ -72,4 +72,9 @@
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 
+[linkedin]: https://www.linkedin.com/in/iury-alencar-8a2b26191/
+
+[facebook]:https://facebook.com/carlos.alencar.7
+
+[instagram]: https://www.instagram.com/cybalencar2/
 
