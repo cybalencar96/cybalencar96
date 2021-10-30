@@ -1,10 +1,11 @@
 ### Hello World, I'm Carlos 👋
 
+<br/>
 
  <img align="right" alt="GIF" src="https://github.com/cybalencar96/cybalencar96/blob/main/coffe.gif?raw=true" width="450" height="350" />
 
 
-## I'm a code lover, animal lover, family lover and love lover.
+## I'm a code lover, animal lover, family lover and coffee lover.
 
 
 - ✍ Currently working on my website portifolio.
@@ -13,11 +14,11 @@
 
 - 💻 I've started coding early of 2021. Finally found my dream career.
 
-- 💬 Very open and accessible guy! Ask me about ... Anything
+- 💬 Very open and accessible guy!
   
-- 😄 Pronouns: He/His
+- 😉 Pronouns: He/His
 
-- ⚡ Fun fact: Coffee for life !!!
+- ⚡ Fun fact: My dog's name is Dog 😂 Nice and true story, ask me later why!
 
 <br/>
 
