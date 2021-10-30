@@ -51,12 +51,9 @@
 <br />
 ---
 
-<details>
-  <summary> GitHub Stats</summary>
+<img align="left" alt="Carlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cybalencar96&count_private=true" />
 
-  <img align="left" alt="Carlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cybalencar96&count_private=true" />
-
-</details>
+<br />
 
 <details>
   <summary> Most Used Languages</summary>
