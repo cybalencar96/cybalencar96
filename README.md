@@ -49,7 +49,7 @@
 
 <br />
 <br />
----
+<br />
 
 <img align="left" alt="Carlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cybalencar96&count_private=true" />
 
