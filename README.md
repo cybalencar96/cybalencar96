@@ -2,7 +2,7 @@
 
 <br/>
 
- <img align="right" alt="GIF" src="https://github.com/cybalencar96/cybalencar96/blob/main/coffe.gif?raw=true" width="450" height="350" />
+ <img align="right" alt="GIF" src="https://github.com/cybalencar96/cybalencar96/blob/main/coffe.gif?raw=true" style="margin-top:20px;"width="450" height="350" />
 
 
 ## I'm a code lover, animal lover, family lover and coffee lover.
