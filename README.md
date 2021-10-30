@@ -1,5 +1,4 @@
-# Hello World, I'm Carlos 👋
-<br/>
+## Hello World, I'm Carlos 👋
 
  <img align="right" alt="GIF" src="https://github.com/cybalencar96/cybalencar96/blob/main/coffe.gif?raw=true" style="margin-top:50px;" width="450" height="350" />
 
