@@ -6,9 +6,9 @@
 ## I'm a code lover, animal lover, family lover and coffee lover.
 
 
-- ✍ Currently working on my website portifolio.
+- ✍ Currently working on my website portfolio.
   
-- 🌱 I'm a very proud  family guy and a wonderful father. Ask my wife!
+- 🌱 I'm a very proud family guy and a wonderful father. Ask my wife!
 
 - 💻 I've started coding early of 2021. Finally found my dream career.
 
