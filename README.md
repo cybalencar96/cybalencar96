@@ -1,14 +1,10 @@
 ### Hello World, I'm Carlos 👋
 
-<br/>
-
 
  <img align="right" alt="GIF" src="https://github.com/cybalencar96/cybalencar96/blob/main/coffe.gif?raw=true" width="450" height="350" />
 
 
 ## I'm a code lover, animal lover, family lover and love lover.
-
-<br/>
 
 
 - ✍ Currently working on my website portifolio.
@@ -24,12 +20,28 @@
 - ⚡ Fun fact: Coffee for life !!!
 
 <br/>
-<br/>
 
 #
 ### Feel free to contact me for any help or question!
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p float="left">
+<a href="https://www.linkedin.com/in/iury-alencar-8a2b26191/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" height="25" />
+</a>
+
+  <a href="https://facebook.com/carlos.alencar.7">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+" height="25"/>
+</a>
+
+<a href="https://www.instagram.com/cybalencar2/">
+  <img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" height="25" /> 
+</a>
+
+
+</p>
 
 <br />
 
@@ -43,12 +55,15 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
+
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
+
 [<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
+
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
 <br />
@@ -65,7 +80,7 @@
 <details>
   <summary> Most Used Languages</summary>
 
-<img align="left" alt="Carlos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Carlos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybalencar96" />
 
 </details>
 
