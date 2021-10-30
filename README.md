@@ -26,7 +26,7 @@
 
 [![Linkedin Badge][linkedin-icon]](linkedin)
 [![Facebook Badge][facebook-icon]](facebook)
-[![Instagram Badge][instagram-icon]]([instagram](https://www.instagram.com/cybalencar2/))
+[![Instagram Badge][instagram-icon]](https://www.instagram.com/cybalencar2/)
 
 <br />
 
