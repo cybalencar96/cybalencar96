@@ -24,24 +24,9 @@
 #
 ### Feel free to contact me for any help or question!
 
-<p float="left">
-<a href="https://www.linkedin.com/in/iury-alencar-8a2b26191/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" height="25" />
-</a>
-
-  <a href="https://facebook.com/carlos.alencar.7">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-" height="25"/>
-</a>
-
-<a href="https://www.instagram.com/cybalencar2/">
-  <img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" height="25" /> 
-</a>
-
-
-</p>
+[![][linkedin-icon]](linkedin)
+[![][facebook-icon]](facebook)
+[![][instagram-icon]](instagram)
 
 <br />
 
@@ -86,5 +71,12 @@
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+
 [linkedin]: https://www.linkedin.com/in/iury-alencar-8a2b26191/
+[linkedin-icon]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+[facebook]:https://facebook.com/carlos.alencar.7
+[facebook-icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+
+[instagram]: https://www.instagram.com/cybalencar2/
+[instagram-icon]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
